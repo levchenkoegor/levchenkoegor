@@ -14,7 +14,7 @@ I'm a **cognitive neuroscientist** and **data scientist** passionate about neuro
   A data-driven approach to cognitive neuroscience, leveraging machine learning for neuropsychiatric monitoring. At Neurometry, we focus on real-world AI applications in neurotech, including clinical decision support and cognitive well-being analysis.
 
 ## 📫 Get in Touch  
-- Email: [Contact Me](mailto:levchenkoegors@gmail.com)
-- [My LinkedIn](https://www.linkedin.com/in/levchenkoegor/)
-- [My Google Scholar](https://scholar.google.com/citations?user=PmOOBdUAAAAJ&hl=en)
+- [Send me an email](mailto:levchenkoegors@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/levchenkoegor/)
+- [Google Scholar](https://scholar.google.com/citations?user=PmOOBdUAAAAJ&hl=en)
   
