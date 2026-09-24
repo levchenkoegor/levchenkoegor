@@ -4,14 +4,15 @@ I'm a **cognitive neuroscientist** and **data scientist** passionate about neuro
 
 ## 🔬 Current Projects  
 
+- **ML Engineer at all.health** 📊  
+  A data-driven approach to cognitive neuroscience, leveraging machine learning for neuropsychiatric monitoring. At Neurometry, we focus on real-world AI applications in neurotech, including clinical decision support and cognitive well-being analysis.
+  
 - **Naturalistic Neuroimaging Database (version 2)** 🧠  
   A large-scale open-access neuroimaging dataset featuring eye-tracking, tonotopy, retinotopy, somatotopy, and cognitive assessments. Open neuroimaging datasets promote scientific transparency, reproducibility, and innovation by enabling researchers worldwide to validate findings, develop new analytical techniques, and apply machine learning models to gain a deeper understanding of the brain. Unlike traditional controlled experiments, naturalistic paradigms provide richer, more ecologically valid insights into cognition and behaviour.
 
 - **Movement Reduction System for Improved MRI Data** 👤  
   Developing and validating a head movement reduction system for MRI experiments. This project involves fMRI preprocessing, statistical modelling, and signal processing to assess the system’s effectiveness in improving data quality. We compare the quality of fMRI data with and without the system to quantify its impact on motion artefacts and overall signal integrity.
 
-- **Neurometry** 📊  
-  A data-driven approach to cognitive neuroscience, leveraging machine learning for neuropsychiatric monitoring. At Neurometry, we focus on real-world AI applications in neurotech, including clinical decision support and cognitive well-being analysis.
 
 ## 📫 Get in Touch  
 - [Send me an email](mailto:levchenkoegors@gmail.com)
